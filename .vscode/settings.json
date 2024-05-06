@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/fc10a70c-59cd-40ea-afff-7047f8b55176/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/pedias2",
+    "appService.deploySubpath": "."
+}
